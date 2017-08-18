@@ -1,0 +1,18 @@
+c:\users\augusto.caldeira\documents\visual studio 2015\Projects\AugustoCunha\AugustoCunha\bin\Debug\AugustoCunha.exe.config
+c:\users\augusto.caldeira\documents\visual studio 2015\Projects\AugustoCunha\AugustoCunha\bin\Debug\AugustoCunha.exe
+c:\users\augusto.caldeira\documents\visual studio 2015\Projects\AugustoCunha\AugustoCunha\bin\Debug\AugustoCunha.pdb
+c:\users\augusto.caldeira\documents\visual studio 2015\Projects\AugustoCunha\AugustoCunha\obj\Debug\AugustoCunha.csprojResolveAssemblyReference.cache
+c:\users\augusto.caldeira\documents\visual studio 2015\Projects\AugustoCunha\AugustoCunha\obj\Debug\AugustoCunha.Form1.resources
+c:\users\augusto.caldeira\documents\visual studio 2015\Projects\AugustoCunha\AugustoCunha\obj\Debug\AugustoCunha.Properties.Resources.resources
+c:\users\augusto.caldeira\documents\visual studio 2015\Projects\AugustoCunha\AugustoCunha\obj\Debug\AugustoCunha.csproj.GenerateResource.Cache
+c:\users\augusto.caldeira\documents\visual studio 2015\Projects\AugustoCunha\AugustoCunha\obj\Debug\AugustoCunha.exe
+c:\users\augusto.caldeira\documents\visual studio 2015\Projects\AugustoCunha\AugustoCunha\obj\Debug\AugustoCunha.pdb
+C:\Users\augusto.caldeira\Desktop\GitHub\campominado\AugustoCunha\AugustoCunha\bin\Debug\AugustoCunha.exe.config
+C:\Users\augusto.caldeira\Desktop\GitHub\campominado\AugustoCunha\AugustoCunha\obj\Debug\AugustoCunha.exe
+C:\Users\augusto.caldeira\Desktop\GitHub\campominado\AugustoCunha\AugustoCunha\obj\Debug\AugustoCunha.pdb
+C:\Users\augusto.caldeira\Desktop\GitHub\campominado\AugustoCunha\AugustoCunha\bin\Debug\AugustoCunha.exe
+C:\Users\augusto.caldeira\Desktop\GitHub\campominado\AugustoCunha\AugustoCunha\bin\Debug\AugustoCunha.pdb
+C:\Users\augusto.caldeira\Desktop\GitHub\campominado\AugustoCunha\AugustoCunha\obj\Debug\AugustoCunha.csprojResolveAssemblyReference.cache
+C:\Users\augusto.caldeira\Desktop\GitHub\campominado\AugustoCunha\AugustoCunha\obj\Debug\AugustoCunha.Form1.resources
+C:\Users\augusto.caldeira\Desktop\GitHub\campominado\AugustoCunha\AugustoCunha\obj\Debug\AugustoCunha.Properties.Resources.resources
+C:\Users\augusto.caldeira\Desktop\GitHub\campominado\AugustoCunha\AugustoCunha\obj\Debug\AugustoCunha.csproj.GenerateResource.Cache
